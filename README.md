@@ -2,7 +2,7 @@
 
 ## UM POUCO SOBRE MIM:
 
-Olá, eu sou o Vinícius, estudante de Sistemas de Informação, estou empenhado em aprender a linguagem de programação JAVA. Aguardo ansiosamente localizar e "apreender" novas estratégias e manipulações nessa linguagem de programação. Estou focado em construir meu portfólio e demonstrar todo meu potencial e habilidade adquirida ao longo desses anos estudando Lógica de Programação.
+Olá, seja bem-vindo(a)! Eu sou o Vinícius, estudante de Sistemas de Informação. Estou focado em construir meu portfólio e demonstrar todo o meu potencial e habilidade adquiridos ao longo desses anos como aspirante à Programação.
 
 - Sou esforçado, dedicado e competitivo comigo mesmo, sempre motivado a "apreender" todo conhecimento possível, especialmente na área de programação, que é meu foco.
 - Possuo boa comunicação e me adapto facilmente a diferentes ambientes de trabalho.
