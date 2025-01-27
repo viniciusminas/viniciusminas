@@ -21,7 +21,6 @@ Olá, seja bem-vindo(a)! Eu sou o Vinícius, estudante de Sistemas de Informaç�
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Linguagens de Programação
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Projetos do GitHub
