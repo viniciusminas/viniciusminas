@@ -58,13 +58,6 @@ Currently, I’m deepening my skills in **Java**, **PostgreSQL**, and **RESTful 
 
 ---
 
-## 🎯 Currently
-
-- 🔍 Looking for an internship or a Junior Back-End Developer opportunity  
-- 📚 Studying RESTful APIs with Java + PostgreSQL  
-- 🧠 Building personal and academic projects focused on real-world applications
-
----
 
 _“Technology drives the world, but people make the difference.”_
 
