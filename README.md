@@ -31,6 +31,11 @@ Currently, I’m deepening my skills in **Java**, **PostgreSQL**, and **RESTful 
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🛠️ Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 ### 🛠️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
