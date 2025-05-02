@@ -1,4 +1,4 @@
-# Vinícius Minas | Back-End Developer
+# Vinícius Minas | Back-End Developer 👨‍💻👾
 
 ## About Me
 
